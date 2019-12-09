@@ -6,7 +6,7 @@ Mars Rover kata solution in C#
 
 # How to run the console app
 - Unzip the file
-- Import into chosen IDE (must support .net)
+- Import into chosen IDE (must support .NET Core SDK Version 3.0)
 - You will need .Net Core 3.0+ installed on your computer. found here: https://dotnet.microsoft.com/download
 - Build Solution
 - Run Unit Tests
