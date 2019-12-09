@@ -14,8 +14,7 @@ namespace tw_mars_rover.Plateau
         
         public PlateauGrid(string gridSize)
         {
-
-           var splitAxis = gridSize.Split(" ");
+            var splitAxis = gridSize.Split(" ");
             _gridY = Int32.Parse(splitAxis[0]);
             _gridX = Int32.Parse(splitAxis[1]);
         }

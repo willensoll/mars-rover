@@ -8,7 +8,7 @@ namespace tw_mars_rover.Rover
     {
 
         private readonly IPlateau _plateau;
-        public IDirection Direction { get; set; }
+        public IDirection Direction { get; private set; }
         
         public int CoordinateX => _plateau.CoordinateX;
 
