@@ -1,0 +1,11 @@
+/Users/williamensoll/RiderProjects/tw-mars-rover/tw-mars-rover/obj/Debug/netcoreapp3.0/tw-mars-rover.csprojAssemblyReference.cache
+/Users/williamensoll/RiderProjects/tw-mars-rover/tw-mars-rover/obj/Debug/netcoreapp3.0/tw-mars-rover.AssemblyInfoInputs.cache
+/Users/williamensoll/RiderProjects/tw-mars-rover/tw-mars-rover/obj/Debug/netcoreapp3.0/tw-mars-rover.AssemblyInfo.cs
+/Users/williamensoll/RiderProjects/tw-mars-rover/tw-mars-rover/bin/Debug/netcoreapp3.0/tw-mars-rover.deps.json
+/Users/williamensoll/RiderProjects/tw-mars-rover/tw-mars-rover/bin/Debug/netcoreapp3.0/tw-mars-rover.dll
+/Users/williamensoll/RiderProjects/tw-mars-rover/tw-mars-rover/bin/Debug/netcoreapp3.0/tw-mars-rover.pdb
+/Users/williamensoll/RiderProjects/tw-mars-rover/tw-mars-rover/obj/Debug/netcoreapp3.0/tw-mars-rover.dll
+/Users/williamensoll/RiderProjects/tw-mars-rover/tw-mars-rover/obj/Debug/netcoreapp3.0/tw-mars-rover.pdb
+/Users/williamensoll/RiderProjects/tw-mars-rover/tw-mars-rover/bin/Debug/netcoreapp3.0/tw-mars-rover
+/Users/williamensoll/RiderProjects/tw-mars-rover/tw-mars-rover/bin/Debug/netcoreapp3.0/tw-mars-rover.runtimeconfig.json
+/Users/williamensoll/RiderProjects/tw-mars-rover/tw-mars-rover/bin/Debug/netcoreapp3.0/tw-mars-rover.runtimeconfig.dev.json
